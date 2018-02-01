@@ -1,7 +1,7 @@
-# inagural-meeting
+# inaugural-meeting
 This repository contains the requirements.txt for the presentation to be given at the first meeting of the meetup. 
 
-To those attending this meetup it is highly recommended that you have Python 3 installed on your machine. All source code for the presentation will be in Python 3. If you have Python 3 with pip install download the requirements.txt file and run:
+To those attending this meetup it is highly recommended that you have Python 3 installed on your machine. All source code for the presentation will be in Python 3. If you have Python 3 with pip installed download the requirements.txt file and run:
 
 pip install -r requirements.txt
 
